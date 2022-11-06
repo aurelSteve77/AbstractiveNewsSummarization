@@ -7,6 +7,7 @@ class BiLSTMEncoder(nn.Module):
     """
 
     def __init__(self, input_dim, hidden_dim, output_dim):
+        # some command
         pass
 
     def forward(self, x):
